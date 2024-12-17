@@ -1,0 +1,16 @@
+/* styles.css */
+
+/* Change the background color of the entire body */
+body {
+    background-color: #ffffff; /* Light gray background */
+}
+
+/* Change the font color of all paragraphs */
+h2 {
+    color: #dd321b; /* Dark gray font color */
+}
+
+/* Change the font color of the heading */
+h1 {
+    color: #333dff; /* A shade of orange */
+}

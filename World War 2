@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historypedia II</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>World War 2(WWII)</h1>
+        <nav>
+            <ul>
+                <li><a href="http://127.0.0.1:3000/historypedia2.html">Home</a></li>
+                <li><a href="http://127.0.0.1:3000/About.html">About</a></li>
+                <li><a href="http://127.0.0.1:3000/Contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Page in progress</h2>
+            <p>We are in the process of rebuilding our pages from the ground up, so this page is blank. You can go visit our other pages if you like.</p>
+        </section>
+
+    </main>
+
+  
